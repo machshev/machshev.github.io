@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Machshev"
+title: Machshev
 ---
+
 This is a test
 
 # Header
